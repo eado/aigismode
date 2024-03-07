@@ -20,3 +20,6 @@ class Beatmap:
         beatmap_d = parser.build_beatmap()
         
         hitObjects = FormatParsedBeatmap(beatmap_d)
+
+        pygame.quit()
+        pygame.init()
