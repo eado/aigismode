@@ -1,0 +1,3 @@
+[submodule "neurochan"]
+	path = neurochan
+	url = https://github.com/neuron-party/neurochan.git
